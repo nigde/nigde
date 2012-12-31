@@ -1,0 +1,4 @@
+nigde
+=====
+
+niğde,nigde,
